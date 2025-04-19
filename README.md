@@ -18,8 +18,15 @@ This project is a front-end implementation of a job listing platform theme simil
 - Interactive elements with JavaScript
 - Mobile-friendly design
 - Easy to customize
+- 
+## 🛠️ Setup
 
-## 📂 Folder Structure
+Simply clone the repository and open `index.html` in your browser:
+
+```bash
+git clone https://github.com/hrazhdari/ThemeJobinja.git
+cd ThemeJobinja
+open index.html
 
 📄 License
 This project is open source and available under the MIT License.
